@@ -1,2 +1,2 @@
 # SE-Project
-Hotel management system
+Hotel automation system
